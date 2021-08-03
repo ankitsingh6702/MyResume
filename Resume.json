@@ -1,0 +1,72 @@
+{
+	"basics": {
+		"name": "Ankit",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/61407753?s=400&u=35226bc05607d7135c00376e8c3481414f024caf&v=4",
+		"email": "2019kucp1012@iiitkota.ac.in",
+		"phone": "+919818218177",
+		"website": "",
+		"summary": "I am a Designer, an Illustrator, a Speaker, and an Author. Ocassionally, I've been known to wear 'musician' hat, too. I maintain a healthy balance between functionality and visual impact in all my work. I believe every piece of design can be a work of art.",
+		"location": {
+			"address": "Rohad",
+			"postalCode": "124501",
+			"city": "Bahadurgarh",
+			"countryCode": "India",
+			"region": "Haryana"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "ankitsingh6702",
+				"url": "https://github.com/ankitsingh6702"
+			},
+			{
+				"network": "linkedin",
+				"username": "ankit-singh-732860196",
+				"url": "https://www.linkedin.com/in/ankit-singh-732860196/"
+			},
+			{
+				"network": "Instagram",
+				"username": "ankitsingh6702",
+				"url": "https://www.instagram.com/ankitsingh6702/"
+			}
+		]
+	},
+	
+	
+	],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-08-05",
+		"endDate": "2023-06-01",
+		"gpa": "6.4",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	}],
+	"publications": [{
+		"title": "",
+		"details": "",
+		"link": ""
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "SQL", "C/C++", "Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton"]
+	},
+{
+            "name": "Singing",
+            "keywords": [
+                "Rapping",
+                "Drums"
+            ]
+        }],
+	"references": []
+}
